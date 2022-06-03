@@ -1,4 +1,5 @@
 # devops19-netology
+<<<<<<< HEAD
 
 # Local .terraform directories
 **/.terraform/*
@@ -34,3 +35,5 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+=======
+>>>>>>> 6ffcc67e58f999237e073e4033a5420fdeabab08
